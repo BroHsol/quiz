@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/quiz/static/css/main.3e2b6eef.css",
+    "main.js": "/quiz/static/js/main.9c642d00.js",
+    "static/media/stand.png": "/quiz/static/media/stand.614210d086dd996cb86e.png",
+    "static/media/emoji3.png": "/quiz/static/media/emoji3.9df9b834b053ce8dbfd8.png",
+    "static/media/emoji2.png": "/quiz/static/media/emoji2.df8ae454e15ef706fad7.png",
+    "static/media/d-5.png": "/quiz/static/media/d-5.65d6f7c175c0ab2c77cc.png",
+    "static/media/d-1.png": "/quiz/static/media/d-1.45788138caf5c32aaf7c.png",
+    "static/media/d-4.png": "/quiz/static/media/d-4.1684b58483338984d8e4.png",
+    "static/media/d-2.png": "/quiz/static/media/d-2.67c37a9be93ba230eecc.png",
+    "static/media/lie.png": "/quiz/static/media/lie.ab3d5f79a31bbcf52da3.png",
+    "static/media/d-3.png": "/quiz/static/media/d-3.2a3c77816dd58a951221.png",
+    "static/media/bg.png": "/quiz/static/media/bg.49516fead821a4dadbd3.png",
+    "static/media/emoji.png": "/quiz/static/media/emoji.04102a90f9c363f83015.png",
+    "static/media/emoji4.png": "/quiz/static/media/emoji4.a2d50ff6ec81ff4a99d9.png",
+    "static/media/DeadpoolMovie-9AzL.ttf": "/quiz/static/media/DeadpoolMovie-9AzL.bdcbd7a3b4f9bbbee3da.ttf",
+    "index.html": "/quiz/index.html",
+    "main.3e2b6eef.css.map": "/quiz/static/css/main.3e2b6eef.css.map",
+    "main.9c642d00.js.map": "/quiz/static/js/main.9c642d00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e2b6eef.css",
+    "static/js/main.9c642d00.js"
+  ]
+}
